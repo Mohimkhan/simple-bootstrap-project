@@ -139,6 +139,8 @@ html {
 .article-details {
     border: 1px solid rgb(185, 185, 185);
     border-top: 0;
+    max-width: 500px;
+    margin-inline: auto;
 }
 
 .article-title {
